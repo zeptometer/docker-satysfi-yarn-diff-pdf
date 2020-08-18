@@ -1,4 +1,4 @@
-FROM amutake/satysfi:0.0.4-dev2020.06.07
+FROM amutake/satysfi:0.0.5
 LABEL maintainer="yuito@acupof.coffee"
 
 # Install Node 12
