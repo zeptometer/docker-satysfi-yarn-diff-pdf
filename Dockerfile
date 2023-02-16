@@ -1,8 +1,8 @@
 FROM amutake/satysfi:0.0.5
 LABEL maintainer="yuito@acupof.coffee"
 
-# Install Node 12
-RUN curl -sL https://deb.nodesource.com/setup_12.x | bash -
+# Install Node 14
+RUN curl -sL https://deb.nodesource.com/setup_14.x | bash -
 RUN apt-get update
 RUN apt-get install -y nodejs
 
