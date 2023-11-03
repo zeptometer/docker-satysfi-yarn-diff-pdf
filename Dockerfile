@@ -1,4 +1,4 @@
-FROM amutake/satysfi:0.0.5
+FROM amutake/satysfi:0.0.10
 LABEL maintainer="yuito@acupof.coffee"
 
 # Install Node 14
